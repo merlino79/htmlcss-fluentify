@@ -175,11 +175,13 @@ header{
 
 
 
+/* sx - dx vioport  */
+
 
 .box-sx, .box-dx{
   width: 29%;
   height: 540px;
-  background-color: yellow;
+  
   
 }
 
@@ -188,12 +190,40 @@ header{
   height: 160px;
 }
 
+.col-sx{
+  position: absolute;
+  top: 14%;
+  left: 7%;
+  width: 370px;
+
+}
+
+.col-cont{
+  position: absolute;
+  top: 14%;
+  left: 40%;
+  width: 370px;
+
+}
+
+.col-dx{
+  position: absolute;
+  top: 14%;
+  left: 75%;
+  width: 370px;
+
+
+}
+
+
+
+/* contenitore centrale vioport 1 */
 
 
 .box-center{
   width: 42%;
   height: 540px;
-  background-color: turquoise;
+  
   margin :auto;
 }
 
@@ -201,6 +231,7 @@ header{
 
 .vioport1{
   height: 540px;
+  position: relative;
 
 }
 
