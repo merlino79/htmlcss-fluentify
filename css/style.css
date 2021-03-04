@@ -173,37 +173,32 @@ header{
 
 
 
-/* viport 1  */
-.vioport1{
-  width: 100;
-  height: 540px;
-  background-color: navajowhite;
-}
 
-.box-sx{
-  width: 36%;
+
+
+.box-sx, .box-dx{
+  width: 29%;
   height: 540px;
   background-color: yellow;
   
 }
 
+
+
 .box-center{
-  width: 64%;
+  width: 42%;
   height: 540px;
   background-color: turquoise;
+  margin :auto;
 }
 
-.box-right{
-  width: 53%;
+
+
+.vioport1{
   height: 540px;
-  background-color: seagreen;
-
 }
 
 
-
-
-/* vioport2  */
 
 .vioport2{
   height: 540px;
