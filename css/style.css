@@ -51,7 +51,7 @@ header{
 }
 
 .header-nav .header-logo{
-  width: 15%;
+  width: 12%;
 }
 
 /* nav  */
@@ -62,7 +62,8 @@ header{
 }
 
 .header-nav-center{
-  width: 45%;
+  width: 47%;
+  font-size: 12px;
  
 }
 
@@ -85,6 +86,7 @@ header{
 
 .header-nav-right{
   width: 40%;
+  font-size: 12px;
  
   text-align: right;
 
