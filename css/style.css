@@ -157,7 +157,7 @@ header{
 }
 
 
-/* vioport  */
+/* vioport box  */
 
 
 
@@ -173,10 +173,30 @@ header{
   background-color: rgb(65, 182, 182);
 }
 
-/* fine vioport  */
+/* fine vioport box */
+
+/* vioport costruzione  */
 
 
 
+
+.box-sx{
+  width: 33%;
+  height: 540px;
+  background-color: rgb(210, 30, 120);
+}
+
+.box-center{
+  width: 33%;
+  height: 540px;
+}
+
+.box-right{
+  width: 34%;
+  height: 540px;
+  background-color: seagreen;
+
+}
 
 /* footer  */
 
