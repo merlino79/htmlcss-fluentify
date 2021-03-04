@@ -232,10 +232,27 @@ header{
 .vioport1{
   height: 540px;
   position: relative;
+  border-bottom: 1px solid olive;
 
 }
 
+.green{
+  color: #4B700e;
+  margin-top: 30px;
+}
 
+.grey{
+  color: #a7a4a4;
+  margin-top: 30px;
+}
+
+hr{
+  margin-top: 30px;
+  width: 25%;
+  margin-left: 100px;
+  color: olive;
+
+}
 /* inizio vioport 2  */
 
 .vioport2{
