@@ -196,22 +196,39 @@ header{
 
 .vioport1{
   height: 540px;
+
 }
 
 
+/* inizio vioport 2  */
 
 .vioport2{
   height: 540px;
-  background-color: rgb(65, 182, 182);
+ 
+  position: relative;
+
+
 }
+
 
 
 .vioport2 .jambatron{
-  background-color: tomato;
+ 
   height: 540px;
+  line-height: 540px;
+
+
 }
 
-/* fine vioport box */
+.jambatron img{
+  width: 480px;
+  height: 550px;
+  text-align: center;
+  vertical-align: middle;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+}
 
 
 
