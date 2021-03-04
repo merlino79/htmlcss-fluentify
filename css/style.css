@@ -169,7 +169,7 @@ header{
 }
 
 
-/* vioport box  */
+/* vioport 1 */
 
 
 
@@ -181,6 +181,11 @@ header{
   height: 540px;
   background-color: yellow;
   
+}
+
+.vioport1 img{
+  width: 160px;
+  height: 160px;
 }
 
 
@@ -237,7 +242,7 @@ header{
 }
 
 .jambatron-text-right{
-  font-size: 28px;
+  font-size: 22px;
   
   margin-top: 20px;
   padding: 20px;
@@ -245,10 +250,20 @@ header{
   width: 570px;
 }
 
+
+.jambatron-text-right h2{
+  font-size: 28px;
+}
+
 .jambatron-text-right p{
   color:  #a7a4a4;
   margin-top: 10px;
   margin-bottom: 10px;
+  font-size: 18px;
+}
+
+.jambatron-text-right a{
+  font-size: 12px;
 }
 
 
