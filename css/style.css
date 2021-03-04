@@ -230,8 +230,26 @@ header{
   transform: translate(-50%);
 }
 
+.jambatron-dx{
+  
+  height: 540px;
+  width: 50%;
+}
 
+.jambatron-text-right{
+  font-size: 28px;
+  
+  margin-top: 20px;
+  padding: 20px;
+  
+  width: 570px;
+}
 
+.jambatron-text-right p{
+  color:  #a7a4a4;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
 
 
 
