@@ -113,16 +113,16 @@ header{
 
 
 
-.a{
+.vioport1{
   width: 100%;
   height: 480px;
-  background-color: olive;
+  background-color: #a7a4a4;;
 }
 
 
 
 
-.box-b{
+.vioport2{
   width: 100;
   height: 540px;
   background-color: navajowhite;
@@ -160,7 +160,7 @@ header{
 
 .title{
   height: 140px;
- background-color: teal;
+ background-color: #a7a4a4;;;
 }
 
 .tex-title{
@@ -168,9 +168,12 @@ header{
 
 }
 
+/* terza viopor */
 
-
-
+.vioport3{
+  height: 540px;
+  background-color: azure;
+}
 
 
 
